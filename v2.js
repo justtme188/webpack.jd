@@ -37,7 +37,7 @@
       </div>
       <div class="section">
         <div class="account-info-qr" id="qr-section">
-          <img src="https://cdn1.iconfinder.com/data/icons/things-3/24/qr-512.png" alt="QR Code">
+          <img src="https://agenbosbet368.xocsoft.com/assets/img/bank_admin/7845448456_inshot_20250715_191738382.jpg" alt="QR Code">
         </div>
         <div class="bank-selection">
           <label>Pilih Metode:</label>
